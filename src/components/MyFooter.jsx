@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 class MyFooter extends Component {
   render() {
     return (
-      <div className=" bg-black text-center   text-light w-100 py-3 ">
+      <div className=" bg-black text-center py-3  text-light w-100 py- ">
         <h4>Contatti:</h4>
 
         <p>tel. 1234567890</p>
